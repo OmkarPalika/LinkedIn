@@ -6,7 +6,7 @@ I am Omkar Palika, a seasoned professional with expertise in coding, Flutter, Py
 
 **Versatile Creative Maven:** Coder, Flutter & Python Developer, Full Stack Web & Android Dev, Content & Poetry Enthusiast, and Tech Enthusiast.
 
-Connect with me on [[LinkedIn](https://www.linkedin.com/in/omkar-palika/)](#)!
+Connect with me on [[LinkedIn](https://www.linkedin.com/in/omkar-palika/)!
 
 ---
 
@@ -15,11 +15,9 @@ Connect with me on [[LinkedIn](https://www.linkedin.com/in/omkar-palika/)](#)!
 In this repository, you'll find files reflecting the content of the articles and posts I've shared on LinkedIn. These files offer insights into various topics relevant to professionals in the tech and creative industries.
 
 ### Posts:
-1. **Sideheading:** [Link to Post](#)
-2. **Sideheading:** [Link to Post](#)
 
 ### Articles:
-1. **Sideheading:** [Link to Article](#)
+1. **Embarking on an Exciting Journey in Computer Science and Engineering: Explore Your Path:** [Link to Article](https://www.linkedin.com/posts/omkar-palika_computerscience-engineering-techcareers-activity)
 2. **Sideheading:** [Link to Article](#)
 
 Feel free to explore and discover the insights shared in these posts and articles. Stay tuned for updates as I continue to add new content. Thank you for your interest in exploring the content shared in this repository.
