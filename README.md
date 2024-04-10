@@ -1,4 +1,4 @@
-# Welcome to Omkar Palika's Repository
+# Welcome to Omkar Palika's LinkedIn Repository
 
 ## About Me
 
