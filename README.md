@@ -6,7 +6,7 @@ I am Omkar Palika, a seasoned professional with expertise in coding, Flutter, Py
 
 **Versatile Creative Maven:** Coder, Flutter & Python Developer, Full Stack Web & Android Dev, Content & Poetry Enthusiast, and Tech Enthusiast.
 
-Connect with me on [LinkedIn](#)!
+Connect with me on [[LinkedIn](https://www.linkedin.com/in/omkar-palika/)](#)!
 
 ---
 
