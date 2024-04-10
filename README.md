@@ -18,7 +18,7 @@ In this repository, you'll find files reflecting the content of the articles and
 
 ### Articles:
 1. **Embarking on an Exciting Journey in Computer Science and Engineering: Explore Your Path:** [Link to Article](https://www.linkedin.com/posts/omkar-palika_computerscience-engineering-techcareers-activity)
-2. **Sideheading:** [Link to Article](#)
+2. **Forget Me-Not Websites: Weaving Magic with Top Web Dev Technologies:** [Link to Article](https://www.linkedin.com/pulse/forget-me-not-websites-weaving-magic-top-web-dev-omkar-palika-tugsc)
 
 Feel free to explore and discover the insights shared in these posts and articles. Stay tuned for updates as I continue to add new content. Thank you for your interest in exploring the content shared in this repository.
 
